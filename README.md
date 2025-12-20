@@ -1,22 +1,40 @@
-# Hi 👋, I'm Deepak
+<h1>Hi, I'm Deepak:)</h1>
+<h3>A seasoned C++ developer</h3>
 
-### A seasoned C++ developer
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepakRoy58&label=Profile views&color=0e75b6&style=flat" alt="DeepakRoy58" /> </p>
+<img width="100%" 
+     src="https://github.com/user-attachments/assets/a892765e-cb24-408f-90d4-9ea4d9f9c6d8" 
+     alt="banner"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DeepakRoy58" alt="DeepakRoy58" /></a> </p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/DeepakRoy58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DeepakRoy58" height="30" width="40" /></a>
-<a href="https://twitter.com/DeepakRoy_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DeepakRoy_58" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepakRoy58&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakRoy58&show_icons=true&locale=en&layout=compact" alt="DeepakRoy58" /></p>
+<h3>Connect with me</h3>
+<p>
+  <a href="https://github.com/DeepakRoy58">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30"/>
+  </a>
+  <a href="https://twitter.com/DeepakRoy_58">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakRoy58&show_icons=true&locale=en" alt="DeepakRoy58" /></p>
+<h3>Languages & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,css,django,express,flask,html,js,nodejs,py,react,ts&theme=dark" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakRoy58&" alt="DeepakRoy58" /></p>
+<h3>GitHub Stats</h3>
+
+<p>
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=DeepakRoy58&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakRoy58&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
