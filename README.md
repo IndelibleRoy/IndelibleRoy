@@ -33,8 +33,6 @@
 <h3>GitHub Stats</h3>
 
 <p>
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=DeepakRoy58&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
-  <img width="48%" 
+    <img width="48%" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakRoy58&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
