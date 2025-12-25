@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=cpp,css,django,express,flask,html,js,nodejs,py,react,ts&theme=dark" />
 </p>
 
+![GitHub Streaks](https://chronogit.vercel.app/api/streaks/svg?username=DeepakRoy58&theme=dark&accent=%232ea043&_v=1)
+
 <h3>GitHub Stats</h3>
 
 <p>
