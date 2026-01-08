@@ -30,5 +30,8 @@
   <img src="https://skillicons.dev/icons?i=cpp,css,django,express,flask,html,js,nodejs,py,react,ts&theme=dark" />
 </p>
 
-![GitHub Streaks](https://chronogit.vercel.app/api/streaks/svg?username=DeepakRoy58&theme=dark&accent=%232ea043&_v=1)
+<p align="center">
+  <img src="https://chronogit.vercel.app/api/streaks/svg?username=DeepakRoy58&theme=dark&accent=%232ea043&_v=1" width="400"/>
+  <img src="https://chronogit.vercel.app/api/streaks/svg?username=IndelibleRoy&theme=dark&accent=%232ea043&_v=1" width="400"/>
+</p>
 
